@@ -26,9 +26,7 @@ Aim: Using Stim, I simulated a rotated surface code memory experiment with noise
 - Why the use of FPGAs are used for decoders in a real-life scenario because the aim is to keep up with the amount od sydromes popping up and they are the hardware algorithm so there's no fun
 
 ## Next steps
-- Add more distances and shots to estimate the threshold more precisely
 - Measure decoding time, since real-time QEC must decode faster than errors accumulate
-- Try Riverlane's open-source Deltakit SDK
 
 ## Run it using these files
 ```bash
